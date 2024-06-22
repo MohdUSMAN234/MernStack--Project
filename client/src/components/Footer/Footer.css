@@ -1,0 +1,10 @@
+footer {
+    padding: 0rem;
+    text-align: center;
+    background-color: var(--btn-color);
+    margin-top: auto;
+
+}
+.home2 {
+    background-color: var(--btn-color);
+}
